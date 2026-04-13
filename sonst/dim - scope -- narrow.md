@@ -1,0 +1,1 @@
+^ [[dim - scope]] -- narrow

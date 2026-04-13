@@ -1,0 +1,1 @@
+broom add a principles page under the Table of Contents on the Gastown page. Link to it from this page as a semantic title line. 

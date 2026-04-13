@@ -1,0 +1,1 @@
+http://www.debonogroup.com/six_thinking_hats.php

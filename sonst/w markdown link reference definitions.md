@@ -1,0 +1,1 @@
+https://foamnotes.com/user/features/link-reference-definitions

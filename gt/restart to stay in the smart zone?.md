@@ -1,0 +1,1 @@
+Why restart [[Term -- Session|Session]]s?  It is not mentioned in the blog post, but the reason the [[Ralph loop]] starts fresh over-and-over is to stay in [[context window zone -- the smart zone]].  Perhaps for similar reasons?

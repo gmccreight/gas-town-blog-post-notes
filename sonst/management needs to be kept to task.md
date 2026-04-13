@@ -1,0 +1,1 @@
+[[managers needs to maintain focus on ensuring things get done]], but also they need to be pinged.  Like [[Term -- Boot the Dog|Boot the Dog]] does.
